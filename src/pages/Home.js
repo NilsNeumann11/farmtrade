@@ -1,5 +1,5 @@
-const Home = () => {
+const Homey = () => {
     return (  );
 }
  
-export default Home;
+export default Homey;
