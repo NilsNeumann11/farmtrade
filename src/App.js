@@ -1,7 +1,7 @@
 import "./App.css";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import Home from "./pages/Home";
-import Nav from "./components/Nav";
+import Home from "./pages/Home.js";
+import Nav from "./components/Nav.js";
 
 function App() {
 	return (
