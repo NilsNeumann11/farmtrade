@@ -1,1 +1,13 @@
+nav-positioning {
+	display: flex;
+	font-size: large;
+}
 
+nav-item {
+	flex-direction: row;
+	align-items: center;
+}
+
+nav-item Link {
+	text-decoration: none;
+}
