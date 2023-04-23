@@ -2,3 +2,7 @@ h1 {
 	color: orangered;
 	font-size: 100px;
 }
+body {
+	height: 150vw;
+	overflow-y: scroll;
+}
