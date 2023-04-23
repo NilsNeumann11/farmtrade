@@ -1,8 +1,19 @@
-h1 {
-	color: orangered;
-	font-size: 100px;
-}
 body {
-	height: 150vw;
-	overflow-y: scroll;
+  height: 150vw;
+  overflow-y: scroll;
 }
+
+h1 {
+  color: orangered;
+  font-size: 100px;
+}
+
+.header-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* .home-main {
+
+} */
